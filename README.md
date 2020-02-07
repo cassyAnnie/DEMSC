@@ -15,11 +15,6 @@ stacking.
 ## Illustrative examples
 
 ```
-
-
-
-
-
 path= 
 #specify path where you have placed the scripts 'packages.R', "functions.R","data-preparation.R" and 
 #the dataset example
